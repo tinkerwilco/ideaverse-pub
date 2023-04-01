@@ -74,3 +74,17 @@ apply actionable ideas: can I actually apply what I'm reading?
 
 ### page notes
 	put the page number and a note about what stands out to you.
+
+
+## Learning is non-linear
+- moving around allows:
+	- a zoomed out, big picture view
+	- you to prioritize, and re-prioritize
+	- you a way to play around with finding Flow
+## Books are for thinking, not just reading
+it only matters what the book caused you to **think**.
+think of it as a conversation with the author.
+## Context is king
+build context big and fast so your reading is more enjoyable and your understanding is more robust.
+intuit patterns.
+make insights.

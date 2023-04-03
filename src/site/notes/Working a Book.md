@@ -4,7 +4,7 @@
 
 Books I'm using in this webinar:
 - The DevOps Handbook
-- Accelerate
+- [[Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]]
 - Python for DevOps
 - DevOps for the Desperate
 - The Manager's Path

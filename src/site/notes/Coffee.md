@@ -18,7 +18,15 @@ French Press
 Espresso
 - 18g @10
 
+
+
 # Barn, from Berlin
-V60 23.5g @36 210°
-23.5g @39 202°
-23.5g @42 202° (I think this grind is too coarse? tastes maybe under extracted compared to @36)
+29MAR (roasted 16MAR)
+V60
+- 23.5g @36 210° (too hot? try 205°)
+- 23.5g @39 202° (also underextracted)
+- 23.5g @42 202° (I think this grind is too coarse? tastes maybe under extracted compared to @36)
+espresso
+- 18g @10 (low )
+chemex 3-cup
+- 32g @37 198°

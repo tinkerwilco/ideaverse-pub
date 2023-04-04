@@ -5,3 +5,5 @@
 Rooms in the pub:
 
 [[Working a Book\|Working a Book]] Nick Milo webinar 1APR'23
+
+[[Coffee\|Coffee]] tasting room

@@ -2,21 +2,20 @@
 {"dg-publish":true,"permalink":"/working-a-book/"}
 ---
 
+This information came from a webinar by Nick Milo, presented 1APR'23 to the Linking Your Thinking community.
+
 Books I'm using in this webinar:
 - The DevOps Handbook
 - [[Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]]
-- Python for DevOps
-- DevOps for the Desperate
-- The Manager's Path
 
 **Meta Goal:**
 To influence the reader in the moment and in the future.
 
 **Allowed to:**
-not read that book
-not finish that book
-not read in order (non-fiction)
-not have tons of metadata
+- not read that book
+- not finish that book
+- not read in order (non-fiction)
+- not have tons of metadata
 
 ### Books are not FOR READING, they are FOR THINKING.
 

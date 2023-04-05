@@ -4,3 +4,6 @@
 
 I'm feeling this:
 "I could quite happily be a hermit, but I also need human contact and companionship"
+### meditations
+"may I be well. may I be happy. may I be peaceful and at ease."
+"breathing in, I calm my body. breathing out, I calm my mind."

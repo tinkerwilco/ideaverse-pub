@@ -13,3 +13,4 @@ Key Index Topics:
 - *dashboards*: are they used to share info? is info on quality and productivity readily available? are failure rates show publicly on them? important: types of info displayed, how broadly it's shared, how easy it is to access. **visibility is key**.
 
 #### Chapter 3: Measuring and Changing Culture
+ 

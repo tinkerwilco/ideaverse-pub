@@ -32,3 +32,6 @@ chemex 3-cup
 - 32g @37 198°
 aeropress
 - 17.4g @26 176° (smells delicious, woodsy. taste is a bit lighter. how well did it extract though? it doesn't taste bitter. but it doesn't taste "strong" enough either. the mouthfeel is too thin. would that mean more grams of beans but the same grind?)
+- 19g @26 176° (better mouthfeel)
+French press 
+- 25g @54 205° {5 minute method} (great mouthfeel and flavor, good temp, I like this setup)

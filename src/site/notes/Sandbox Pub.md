@@ -14,6 +14,10 @@ skip to a current book:
 - [[Autism and Buddhist Practice - Chris Jarrell\|Autism and Buddhist Practice - Chris Jarrell]]
 - [[Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]]
 
+What I'm listening to:
+1. boygenius' new album
+2. Thinking in Systems audiobook from Libro.fm
+3. 
 
 
 

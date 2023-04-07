@@ -30,6 +30,7 @@ espresso
 - 18g @10 (low )
 chemex 3-cup
 - 32g @37 198°
+- 22g @35 205° (500g water in 2:30 w/1:15 drawdown; this turned out well)
 aeropress
 - 17.4g @26 176° (smells delicious, woodsy. taste is a bit lighter. how well did it extract though? it doesn't taste bitter. but it doesn't taste "strong" enough either. the mouthfeel is too thin. would that mean more grams of beans but the same grind?)
 - 19g @26 176° (better mouthfeel)

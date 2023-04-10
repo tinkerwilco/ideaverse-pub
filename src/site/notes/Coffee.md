@@ -36,3 +36,7 @@ aeropress
 - 19g @26 176° (better mouthfeel)
 French press 
 - 25g @54 205° {5 minute method} (great mouthfeel and flavor, good temp, I like this setup)
+# Calendar
+9APR (14MAR)
+Chemex
+- 22g @35 206° (330g of water in 2:30, compared to 500g in same time with Barn beans)

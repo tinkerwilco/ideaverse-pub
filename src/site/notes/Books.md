@@ -5,6 +5,7 @@
 
 [[Working a Book\|Working a Book]]
 
+need to find a book on [[stoicism\|stoicism]]
 ## Nonfiction
 - [[Embrace the Suck - Brent Gleeson\|Embrace the Suck - Brent Gleeson]]
 - [[Start Now Get Perfect Later - Rob Moore\|Start Now Get Perfect Later - Rob Moore]]

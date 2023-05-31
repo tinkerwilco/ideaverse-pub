@@ -48,9 +48,7 @@ need to find a book on [[stoicism\|stoicism]]
 #### Currently checked out from [[Jon's Calibre Online Epub Library\|Jon's Calibre Online Epub Library]]:
 - [[The Creative Act - Rick Rubin\|The Creative Act - Rick Rubin]]
 
-#### Currently checked out from High Point SPL branch:
+#### Checked out from High Point SPL branch:
 - [[Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]]
 - [[Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu\|Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu]]
 - [[Autism and Buddhist Practice - Chris Jarrell\|Autism and Buddhist Practice - Chris Jarrell]]
-- brain gut connection
-- DevOps for the desperate

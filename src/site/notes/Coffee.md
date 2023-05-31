@@ -40,3 +40,16 @@ French press
 9APR (14MAR)
 Chemex
 - 22g @35 206° (330g of water in 2:30, compared to 500g in same time with Barn beans)
+- 22g @35 200° (765g of water in 11:00)
+
+# Ladro Burundi Kibingo Yeast Oro
+v60
+- 22g @30 200° (400g water in 2:15-2:30 brew time)
+- 25g @32 205° (400g in 2:30)
+chemex
+- 24g @34 205° (400g water in ~ 3:00) very good!
+
+# Big Truck
+chemex
+- 24g @34 205° (400g water in ~ 3:00) very good!
+- 

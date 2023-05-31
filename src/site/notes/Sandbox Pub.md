@@ -6,6 +6,8 @@ Rooms in the pub:
 
 [[Working a Book\|Working a Book]] Nick Milo webinar 1APR'23
 
+[[Elixir\|Elixir]]
+
 [[Coffee\|Coffee]] tasting room
 pourover methods and a breville espresso machine
 
@@ -16,8 +18,7 @@ skip to a current book:
 
 What I'm listening to:
 1. boygenius' new album
-2. Thinking in Systems audiobook from Libro.fm
-3. 
+2. The Art of Gathering, audiobook from Libro.fm
 
 
 

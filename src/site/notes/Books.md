@@ -52,3 +52,6 @@ need to find a book on [[stoicism\|stoicism]]
 - [[Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]]
 - [[Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu\|Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu]]
 - [[Autism and Buddhist Practice - Chris Jarrell\|Autism and Buddhist Practice - Chris Jarrell]]
+
+### All the books from my Amazon wish list
+237 to import here.

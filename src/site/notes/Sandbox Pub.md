@@ -16,7 +16,9 @@ skip to a current book:
 - [[Autism and Buddhist Practice - Chris Jarrell\|Autism and Buddhist Practice - Chris Jarrell]]
 - [[Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]]
 
-Testing omg.lol proofs verification: provenbcd684
+sandbox websites:
+tinkerwilco.pro
+jhustler.lol
 
 
 

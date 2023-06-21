@@ -12,7 +12,7 @@ The publishing house is still under construction, but so far here are the rooms 
 
 [[Coffee\|Coffee]] tasting room, pour-over methods, and a breville espresso machine.
 
-Reading [[Books\|Books]] and [[Working a Book\|Working a Book]] Nick Milo webinar 1APR'23
+Reading [[Books\|Books]] and [[Working a Book\|Working a Book]]
 
 Playing around with sandbox websites:
 tinkerwilco.pro

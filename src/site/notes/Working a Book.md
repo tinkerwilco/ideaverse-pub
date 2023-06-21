@@ -2,7 +2,31 @@
 {"dg-publish":true,"permalink":"/working-a-book/"}
 ---
 
-This information came from a webinar by Nick Milo, presented 1APR'23 to the Linking Your Thinking community.
+##### This information came from a class with Jim Kwik around 2018.
+
+Before reading:
+- come up with 5 questions about the material
+- do "infinity finger" technique" (you make the infinity symbol shape in the air in front of you, slowly, following it with your eyes) I can't find the technique online anywhere, probably because this was part of a paid class, so I found references to it if you purchase the class but not like an instructional youtube video.
+- practice juggling (these are all things that engage your brain in a certain way)
+Then:
+- Read for 10 mins using the 4-3-2-1 method (again, can't find the example online, but I think this was something about reading the same material at different speeds? Read a page at 4x speed, see how much you comprehend, then read it again at 3x, then 2x, then standard reading speed. So it was something like that, where you see the material over and over for 10 minutes but in different ways and this puts the material into your brain in some extra sticky way.)
+- Read for 3 minutes while making notes, such as in an Obsidian note about the book (use Book Search plugin!)
+- Count 1-10 mentally to reduce subvocalization. Simply count from 1 to 10 in your head while moving your eyes over the words on the page, so you cannot say the words to yourself because you are already counting numbers. The counting prevents you from saying each word to yourself which can increase your reading speed because you can move your eyes over the words much faster than you can read the sentences to yourself.
+- Use the quadrants method. I really don't remember what this was.
+- Tell someone what you learned. This one is pretty simple, you just learn the material better if you go into it thinking you'll have to teach someone else. Then when you actually do teach someone else, you learn it again.
+
+Super Brain yoga, breath work, brain breaks. Hydration.
+There is a brain workout where you massage your left earlobe with your right hand, then switch. Then do that while squatting. Breathing in on the way down, out on the way back up. It does something to the neural patterns in the brain by getting connections fired up that go across the corpus callosum.
+
+### 4 stages of mapping technical books
+- Look at all the non-text first (images, charts, etc)
+- Go through the glossary and write down all new words in a separate place (like an Obsidian note! remember, use Book Search plugin for this.)
+- Write 5-9 questions you have formed about the material.
+- Mentally organize the chapters by going over the table of contents trying to understand the overall breakdown of information categories.
+
+Make sure to always skim technical info before you read it. The information could be very heavy/deep so by skimming first you create a foundation for the brain to accept this complex info once you actually go through it at regular pace.
+
+##### This information came from a webinar by Nick Milo, presented 1APR'23 to the Linking Your Thinking community.
 
 Books I'm using in this webinar:
 - The DevOps Handbook

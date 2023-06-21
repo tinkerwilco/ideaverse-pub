@@ -46,7 +46,7 @@ F: HackRF One (Great Scott Gadgets discord)
 G: Thinkpad x200
 - libreboot
 - trisquel
-H: Toughbook CF-32
+H: Toughbook CF-30
 - Install GPS module
 - Look into RAM upgrade
 I: Hak5

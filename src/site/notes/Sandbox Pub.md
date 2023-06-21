@@ -16,7 +16,7 @@ Reading [[Books\|Books]] and [[Working a Book\|Working a Book]] Nick Milo webina
 
 Playing around with sandbox websites:
 tinkerwilco.pro
-jhustler.lol (coming soon)
+jhustler.lol (part of the omg.lol community! coming soon)
 [[gemini protocol sites\|gemini protocol sites]] (research coming soon)
 
 [[Learning Projects MOC\|Learning Projects MOC]]

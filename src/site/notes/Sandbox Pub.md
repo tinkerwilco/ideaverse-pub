@@ -21,3 +21,4 @@ jhustler.lol (part of the home.omg.lol community! coming soon)
 
 [[Learning Projects MOC\|Learning Projects MOC]]
 [[Mastodon MOC\|Mastodon MOC]] (coming soon)
+[[Linux\|Linux]] (hardware hacking)

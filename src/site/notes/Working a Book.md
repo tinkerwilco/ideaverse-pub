@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/working-a-book/"}
 ---
 
+5 levels of reading:
+- identity
+- beliefs & values
+- capabilities
+- behavior
+- environment
+
 ##### This information came from a class with Jim Kwik around 2018.
 
 Before reading:

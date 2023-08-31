@@ -3,22 +3,25 @@
 ---
 
 
-# The pub is where I publish things.
-#### There is a Sandbox Pub and Cafe to symbolize these "third places" in society that have a special quality when it comes to discussions and innovations.
+# This is my digital garden. I call it the pub as a play on the word public and publish.
+#### My concept of a sandbox is a place to experiment. So I have a Sandbox Pub (which is here at pub.tinkerwilco.pro) and also a Sandbox Cafe (which is hosted in Miro and Zoom) to symbolize these places where people can meet, some work can get done, and thoughtful discussions can happen.
 ### I use the Sandbox Cafe as a symbol of my digital whiteboard which I can share with others. I use that for real-time collaboration, like lean coffee discussions, body-doubling work sessions, and more.
-## I use the Sandbox Pub as a symbol of my digital laboratory. It is a play on the word publish and public house. 
+## And the Sandbox Pub is a symbol of my digital laboratory.
 
-The publishing house is still under construction, but so far here are the rooms in the pub:
+The compound is under construction (as of AUG'23), however here are some of the rooms in the pub which you can begin exploring:
 
-[[Coffee\|Coffee]] tasting room, pour-over methods, and a breville espresso machine.
+### A [[Coffee\|Coffee]] tasting room, pour-over methods, and an espresso machine.
 
-Reading [[Books\|Books]] and [[Working a Book\|Working a Book]]
+### Peruse the stacks of [[Books\|Books]] in the reading room
 
-Playing around with sandbox websites:
+### In the workshop area, I have been playing around with indieweb, small web, fediverse, alt protocols.
+
+Domains:
 tinkerwilco.pro
 jhustler.lol (part of the home.omg.lol community! coming soon)
-[[gemini protocol sites\|gemini protocol sites]] (research coming soon)
+[[gemini protocol sites\|gemini protocol sites]] (list of gemini:// sites I have collected)
 
+## Some of the Maps of Content I have been working on are:
 [[Learning to Code Projects MOC\|Learning to Code Projects MOC]]
 [[Mastodon MOC\|Mastodon MOC]] (coming soon)
-[[Linux\|Linux]] (hardware hacking)
+[[GNU+Linux MOC\|GNU+Linux MOC]] (hardware hacking)

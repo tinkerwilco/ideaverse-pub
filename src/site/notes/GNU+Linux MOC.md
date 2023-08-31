@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gnu-linux-moc/"}
 ---
 
+Also: [[FOSS MOC\|FOSS MOC]]
 ##### Why our economy fails public goods like free software
 https://framatube.org/w/ssYsun1bEXuL1nm5cT9ckw
 
@@ -9,7 +10,6 @@ https://framatube.org/w/ssYsun1bEXuL1nm5cT9ckw
 smalltown
 bookwyrm
 writefreely
-[[FOSS MOC\|FOSS MOC]]
 [[commandline-fu\|commandline-fu]]
 https://runyourown.social
 https://fedidb.org/network

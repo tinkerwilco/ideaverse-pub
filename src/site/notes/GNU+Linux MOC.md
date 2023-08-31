@@ -31,6 +31,8 @@ B: Moto G7 Power (ocean)
 - degoogled phones
 C: iPhone X
 - iFixit project, right-to-repair, needs front and back glass replaced
+- Paired parts issue, new screen would need serialization
+- Update (AUG'23): back glass has been removed
 D: Raspberry Pi
 - 3B+ with 5" touchscreen
 - Zero W
@@ -58,3 +60,7 @@ I: Hak5
 - Screen Crab
 - LAN Turtle
 - O.MG cables
+J: flipper zero
+- AWOK Chungus v4
+- AWOK duo DIY board
+- CyberBros DIY board

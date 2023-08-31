@@ -2,10 +2,12 @@
 {"dg-publish":true,"permalink":"/books/"}
 ---
 
+<-- Go back to the [[Sandbox Pub\|Sandbox Pub]] main room
 
+Learn about the capability of working a book instead of just reading it!
 [[Working a Book\|Working a Book]]
 
-need to find a book on [[stoicism\|stoicism]]
+I would like to read a few books on stoicism and look into the kind of meditations they did.
 ## Nonfiction
 - [[Embrace the Suck - Brent Gleeson\|Embrace the Suck - Brent Gleeson]]
 - [[Start Now Get Perfect Later - Rob Moore\|Start Now Get Perfect Later - Rob Moore]]
@@ -28,6 +30,7 @@ need to find a book on [[stoicism\|stoicism]]
 - Code Cafe
 - The Kubernetes Podcast
 - AWS Podcast
+- Unstoppable Domains Podcast
 
 ## Fiction podcasts:
  - Machina

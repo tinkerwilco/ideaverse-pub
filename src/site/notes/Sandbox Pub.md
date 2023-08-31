@@ -24,4 +24,4 @@ jhustler.lol (part of the home.omg.lol community! coming soon)
 ## Some of the Maps of Content I have been working on are:
 [[Learning to Code Projects MOC\|Learning to Code Projects MOC]]
 [[Mastodon MOC\|Mastodon MOC]] (coming soon)
-[[GNU+Linux MOC\|GNU+Linux MOC]] (hardware hacking)
+[[GNU+Linux MOC\|GNU+Linux MOC]] (hardware hacking and self-hosting)

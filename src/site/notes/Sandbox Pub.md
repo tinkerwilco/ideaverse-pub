@@ -19,6 +19,6 @@ tinkerwilco.pro
 jhustler.lol (part of the home.omg.lol community! coming soon)
 [[gemini protocol sites\|gemini protocol sites]] (research coming soon)
 
-[[Learning Projects MOC\|Learning Projects MOC]]
+[[Learning to Code Projects MOC\|Learning to Code Projects MOC]]
 [[Mastodon MOC\|Mastodon MOC]] (coming soon)
 [[Linux\|Linux]] (hardware hacking)

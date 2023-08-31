@@ -31,3 +31,13 @@ Domains:
 [[Learning to Code Projects MOC\|Learning to Code Projects MOC]]
 [[Mastodon MOC\|Mastodon MOC]] (coming soon)
 [[GNU+Linux MOC\|GNU+Linux MOC]] (hardware hacking and self-hosting)
+
+
+
+
+
+
+
+
+
+If you are logged in as wilco, go to the [[Home\|Home]] note.

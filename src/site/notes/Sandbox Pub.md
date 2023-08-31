@@ -23,6 +23,9 @@ Domains:
 - web3 domains
 	- cybersafe.wallet
 	- realamber.x
+- chat services
+	- wilco.snikket.chat (XMPP)
+	- matrix.seattlematrix.org (Matrix)
 
 ## Some of the Maps of Content I have been working on are:
 [[Learning to Code Projects MOC\|Learning to Code Projects MOC]]

@@ -17,9 +17,12 @@ The compound is under construction (as of AUG'23), however here are some of the 
 ### In the workshop area, I have been playing around with indieweb, small web, fediverse, alt protocols.
 
 Domains:
-tinkerwilco.pro
-jhustler.lol (part of the home.omg.lol community! coming soon)
-[[gemini protocol sites\|gemini protocol sites]] (list of gemini:// sites I have collected)
+- tinkerwilco.pro
+- jhustler.lol (part of the home.omg.lol community! coming soon)
+- [[gemini protocol sites\|gemini protocol sites]] (list of gemini:// sites I have collected)
+- web3 domains
+	- cybersafe.wallet
+	- realamber.x
 
 ## Some of the Maps of Content I have been working on are:
 [[Learning to Code Projects MOC\|Learning to Code Projects MOC]]

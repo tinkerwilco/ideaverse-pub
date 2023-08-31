@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/learning-to-code-projects-moc/"}
 ---
 
+There have been tasks and ideas that have come up now and then throughout my career where it was considered but never made into a proof-of-concept or implemented. Here I will list them out as a nice to-do list of coding project ideas for when I am just in need of technical practice.
 # Specific implementations
 ## [[python scripts\|python scripts]]
 - [ ] use script to access a database (postgresql)

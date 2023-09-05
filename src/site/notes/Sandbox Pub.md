@@ -24,8 +24,9 @@ Domains:
 	- cybersafe.wallet
 	- realamber.x
 - chat services
-	- wilco.snikket.chat (XMPP)
+	- wilco.snikket.chat (XMPP/Jabber)
 	- matrix.seattlematrix.org (Matrix)
+	- beeper.com
 
 ## Some of the Maps of Content I have been working on are:
 [[Learning to Code Projects MOC\|Learning to Code Projects MOC]]

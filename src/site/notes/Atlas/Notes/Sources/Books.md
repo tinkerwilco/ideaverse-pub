@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/notes/sources/books/"}
 ---
 
-<-- Go to the [[Efforts/Ongoing/Sandbox Pub\|Sandbox Pub]] main room
+nb<-- Go to the [[Efforts/Ongoing/Sandbox Pub\|Sandbox Pub]] main room
 
 Learn about the capability of working a book instead of just reading it! -> [[Efforts/Simmering/Working a Book\|Working a Book]]
 

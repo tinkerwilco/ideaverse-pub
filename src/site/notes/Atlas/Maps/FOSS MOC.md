@@ -9,7 +9,7 @@
 
 
 #### Community notes
-[[+/Community strategy\|Community strategy]]
+[[Efforts/Simmering/Community strategy\|Community strategy]]
 what do you want in a community?
 - A more pluralistic, more humane world, that's sustainable, where artists get their fair share, where audiences and artists understand they're class allies, and allies with all those workers. 
 what do you want your community to be?

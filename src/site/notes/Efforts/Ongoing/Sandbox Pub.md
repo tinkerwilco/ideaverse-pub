@@ -12,7 +12,7 @@ The compound is under construction (as of AUG'23), however here are some of the 
 
 ### A [[Efforts/Simmering/Coffee\|Coffee]] tasting room, pour-over methods, and an espresso machine.
 
-### Peruse the stacks of [[+/Books\|Books]] in the reading room
+### Peruse the stacks of [[Atlas/Notes/Sources/Books\|Books]] in the reading room
 
 ### In the workshop area, I have been playing around with indieweb, small web, fediverse, alt protocols.
 

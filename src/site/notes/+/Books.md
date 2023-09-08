@@ -51,6 +51,14 @@ I would like to read a few books on stoicism and look into the kind of meditatio
 - How to Be an Antiracist
 - The Art of Gathering
 - Good Guys
+- NeuroTribes
+- We're Not Broken
+- This Could Be Our Future
+- Coping with Trauma-Related Dissociation
+- Wintering
+- Subtract
+- Four Futures
+- The Mushroom at the End of the World
 ## Fiction
 - The Sandman (Neil Gaiman)
 - Radicalized (Cory Doctorow)

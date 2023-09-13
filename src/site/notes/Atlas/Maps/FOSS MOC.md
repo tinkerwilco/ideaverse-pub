@@ -3,7 +3,7 @@
 ---
 
 [[Atlas/Maps/Mastodon MOC\|Mastodon MOC]]
-[[Atlas/Maps/GNU+Linux MOC\|GNU+Linux MOC]]
+[[Atlas/Notes/X/GNU+Linux\|GNU+Linux]]
 
 ### Personal Project Ideas
 

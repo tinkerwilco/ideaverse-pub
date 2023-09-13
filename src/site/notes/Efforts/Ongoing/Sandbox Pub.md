@@ -29,10 +29,10 @@ Domains:
 	- beeper.com
 
 ## Some of the Maps of Content I have been working on are:
-[[Atlas/Maps/Learning to Code Projects MOC\|Learning to Code Projects MOC]]
+[[Atlas/Notes/X/Learning to Code\|Atlas/Notes/X/Learning to Code]]
 [[Atlas/Maps/Mastodon MOC\|Mastodon MOC]] (coming soon)
-[[Atlas/Maps/GNU+Linux MOC\|GNU+Linux MOC]] (hardware hacking and self-hosting)
-[[Atlas/Notes/Sources/dataview file attributes\|dataview file attributes]] -> see updated table in [[Atlas/Notes/Sources/How to create Dataviews\|How to create Dataviews]]
+[[Atlas/Notes/X/GNU+Linux\|GNU+Linux]] (hardware hacking and self-hosting)
+[[Atlas/Notes/Sources/dataview file attributes\|dataview file attributes]] (obsolete) -> see updated table in [[Atlas/Notes/Sources/How to create Dataviews\|How to create Dataviews]]
 
 
 

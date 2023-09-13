@@ -2,13 +2,17 @@
 {"dg-publish":true,"permalink":"/atlas/notes/sources/books/"}
 ---
 
-nb<-- Go to the [[Efforts/Ongoing/Sandbox Pub\|Sandbox Pub]] main room
+<-- Go to the [[Efforts/Ongoing/Sandbox Pub\|Sandbox Pub]] main room
 
 Learn about the capability of working a book instead of just reading it! -> [[Efforts/Simmering/Working a Book\|Working a Book]]
 
 I would like to read a few books on stoicism and look into the kind of meditations they did.
 # Hard Copy
 ## Non-fiction
+- [[You Deserve a Tech Union - Ethan Marcotte\|You Deserve a Tech Union - Ethan Marcotte]]
+- [[Atlas/Notes/Sources/The Manager's Path - Camille Fournier\|The Manager's Path - Camille Fournier]]
+- [[Atlas/Notes/Sources/Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]]
+- [[Atlas/Notes/Sources/Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu\|Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu]]
 - [[+/Embrace the Suck - Brent Gleeson\|Embrace the Suck - Brent Gleeson]]
 - [[+/Start Now Get Perfect Later - Rob Moore\|Start Now Get Perfect Later - Rob Moore]]
 - [[Atlas/Notes/Sources/The Programmer's Brain - Felienne Hermans\|The Programmer's Brain - Felienne Hermans]]
@@ -17,12 +21,9 @@ I would like to read a few books on stoicism and look into the kind of meditatio
 - [You Mean I'm Not Lazy, Stupid or Crazy?!: The Classic Self-Help Book for Adults with Attention Deficit Disorder](<https://www.amazon.com/You-Mean-Lazy-Stupid-Crazy/dp/0743264487>)
 - [Four Thousand Weeks: Time Management for Mortals](<https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122>)
 - [[Atlas/Notes/Sources/The Image of the City - Kevin Lynch\|The Image of the City - Kevin Lynch]]
-- [[Atlas/Notes/Sources/The Manager's Path - Camille Fournier\|The Manager's Path - Camille Fournier]]
-- [[Atlas/Notes/Sources/Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]]
-- [[Atlas/Notes/Sources/Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu\|Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu]]
 ## Fiction
-- [[Atlas/Notes/Sources/The Beach - Alex Garland\|The Beach - Alex Garland]]
 - [[+/Seveneves - Neal Stephenson\|Seveneves - Neal Stephenson]]
+- [[Atlas/Notes/Sources/The Beach - Alex Garland\|The Beach - Alex Garland]]
 
 # Podcasts
 ## Non-Fiction

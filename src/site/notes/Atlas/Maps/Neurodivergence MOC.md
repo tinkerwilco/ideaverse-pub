@@ -10,7 +10,7 @@ Let's start with the 5 prompts:
 4.  It's different from ... because
 5.  It's important because
 
-1: Neurodivergence is interesting to me because I live it every day. I am inside of this topic, so it is immediately relevant to me. I want to learn more about myself, so that I can **get to know myself better** (see things in the [[Atlas/Maps/Know Thyself MOC\|Know Thyself MOC]]) and have a more confident sense of my own [[Atlas/Notes/Ideas/Gender Identity\|Gender Identity]], my [[Efforts/Notes/Autism\|Autism]], and my needs.
+1: Neurodivergence is interesting to me because I live it every day. I am inside of this topic, so it is immediately relevant to me. I want to learn more about myself, so that I can **get to know myself better** (see things in the [[Atlas/Maps/Books MOC\|Books MOC]]) and have a more confident sense of my own [[Atlas/Notes/Ideas/Gender Identity\|Gender Identity]], my [[Efforts/Notes/Autism\|Autism]], and my needs.
 
 2: It reminds me of ... like having a superpower I guess? It's like, a way in which being different can be a huge benefit, but can also make me stand out in such a way that I am constantly misunderstood. I will need to learn [[+/How to research\|How to research]] better so that I can research various ways to leverage ND in an NT world.
 

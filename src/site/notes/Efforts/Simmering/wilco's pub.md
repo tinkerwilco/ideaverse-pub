@@ -9,7 +9,7 @@
 
 ### I also have an interest in other forms of right-to-repair like repairing tech devices, older vehicles, appliances, and anything that has analog components which can be services with OEM or aftermarket parts. I am very interested in fabrication of parts where none are available, but have no yet given time to this path. In the future that may include: machining, additive manufacturing (3-D printing), welding, and other forms of platform/tools development in the analog space.
 
-Something I am investigating right now is the concept of [[Mapping vs Packing\|Mapping vs Packing]]. I do not have a note for this yet but currently I am drawing a [[Atlas/Maps/Map of Books\|Map of Books]] which is intended to help me maintain a healthy reading habit.
+Something I am investigating right now is the concept of [[+/Mapping vs Packing\|Mapping vs Packing]]. I do not have a note for this yet but currently I am drawing a [[Atlas/Maps/Map of Books\|Map of Books]] which is intended to help me maintain a healthy reading habit.
 
 
 If you are logged in as wilco, go to the [[Efforts/Notes/Home\|Home]] note.

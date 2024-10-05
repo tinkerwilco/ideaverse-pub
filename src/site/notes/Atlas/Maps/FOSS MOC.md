@@ -2,8 +2,11 @@
 {"dg-publish":true,"permalink":"/atlas/maps/foss-moc/"}
 ---
 
+uplink:: [[workbench\|workbench]]
+tags:: #moc 
+
 [[Atlas/Maps/Mastodon MOC\|Mastodon MOC]]
-[[Atlas/Notes/X/GNU+Linux\|GNU+Linux]]
+[[Atlas/Notes/Ideas/GNU+Linux\|GNU+Linux]]
 
 ### Personal Project Ideas
 

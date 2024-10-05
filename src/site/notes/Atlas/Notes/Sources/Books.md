@@ -2,16 +2,17 @@
 {"dg-publish":true,"permalink":"/atlas/notes/sources/books/"}
 ---
 
-<-- Go to the [[Efforts/Simmering/Sandbox Pub & Cafe\|Sandbox Pub & Cafe]] main room
+<-- Go to the [[Efforts/Simmering/wilco's pub\|wilco's pub]] main room
 
 Learn about the capability of working a book instead of just reading it! -> [[Efforts/Sleeping/Working a Book\|Working a Book]]
 
 I would like to read a few books on stoicism and look into the kind of meditations they did.
 # Hard Copy
 ## Non-fiction
-- [[Atlas/Books/You Deserve a Tech Union - Ethan Marcotte\|You Deserve a Tech Union - Ethan Marcotte]]
+How to keep house while drowning kc Davis 
+- [[Atlas/Books/You Deserve a Tech Union - Ethan Marcotte\|You Deserve a Tech Union - Ethan Marcotte]] - fin 2/10/2024
 - [[Atlas/Notes/Sources/The Manager's Path - Camille Fournier\|The Manager's Path - Camille Fournier]]
-- [[Atlas/Notes/Sources/Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]]
+- [[Atlas/Notes/Sources/Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim\|Accelerate - Nicole Forsgren PhD Jez Humble Gene Kim]] - fin 04/10/2023
 - [[Atlas/Notes/Sources/Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu\|Python for DevOps - Noah Gift Kennedy Behrman Alfredo Deza Robert Jordan Grig Gheorghiu]]
 - [[+/Embrace the Suck - Brent Gleeson\|Embrace the Suck - Brent Gleeson]]
 - [[+/Start Now Get Perfect Later - Rob Moore\|Start Now Get Perfect Later - Rob Moore]]
@@ -22,6 +23,7 @@ I would like to read a few books on stoicism and look into the kind of meditatio
 - [Four Thousand Weeks: Time Management for Mortals](<https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122>)
 - [[Atlas/Notes/Sources/The Image of the City - Kevin Lynch\|The Image of the City - Kevin Lynch]]
 - [[Atlas/Books/Tiny Habits - B J Fogg\|Tiny Habits - B J Fogg]]
+- [[+/Bird by Bird - Anne Lamott\|Bird by Bird - Anne Lamott]] 
 ## Fiction
 - [[+/Seveneves - Neal Stephenson\|Seveneves - Neal Stephenson]]
 - [[Atlas/Notes/Sources/The Beach - Alex Garland\|The Beach - Alex Garland]]

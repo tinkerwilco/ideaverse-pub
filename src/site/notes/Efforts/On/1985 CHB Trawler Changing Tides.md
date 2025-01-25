@@ -7,43 +7,50 @@ relevant:: [[Atlas/Maps/Nomad MOC\|Nomad MOC]]
 year:: 1985
 model:: 38 sundeck
 # call graham @ delta re: in-water stuffing box repacking, or learn how to do it myself in the water.
-## current working 12v circuits
+# Winter 2025 projects checklist
+- [ ] remove the Onan genset injectors and have them cleaned by Uncle Aaron (this genset needs other attention such as sending the heat exchanger to Seattle Radiator works and plumbing in new fuel lines and a new primary Racor for it)
+- [ ] fix sink in stateroom
+- [ ] clean LectraSan box (in the aft head. also may just remove it to sell but need to clean it either way.)
+
+# starboard engine, open issues
+
+## stop solenoid + relay needs to be rewired
+This solenoid seems to be broken. I ordered a new one. I also am considering just changing to a cable, which is recommended by some online due to these weird relay setups and solenoid failures.
+After trying to route the cable method it simply got in the way of access too much, so I will be going back to solenoid stop method.
+## RPM gauge needs to be hooked back up
+These should be a small wire on each alternator. Out of two small wires, one is the signal wire and the other is this RPM driver. Either on a spade or ring terminal.
+Port side RPM gauge works now.
+## water temp and oil pressure on starboard side need to be hooked back up to the loom
+All sensors need testing so I understand how to troubleshoot later. Need to know the baseline values and where to probe to get them.
+# 12v circuits, open issues
+## deck wash pumps (I think it just needs to be wired and the plumbing is already done, seacock just needs to be opened, the one near starboard reverse gear)
+## some nav lights: rear white, and high white still not working
+## horn not working
+# engines and gearboxes, closed issues
+## ✅ 1: Port ignition switch not firing the starter
+I replaced both start relays and one of the relay harness/plug ends which was very corroded inside.
+## ✅starboard transmission stop switch needs rewired
+But why was it cut out of the loop? Do I even need this? I removed both instead of fixing the second one. I really do not see a need for this feature for me personally.
+## ✅Starboard v-belt is worn
+Replaced Aug 2024!
+## ✅Starboard harmonic balancer seems wobbly
+Shakedown cruise Aug 2024 it did fine during two 4-hour trips, so I guess it's just visual with how the paint is peeling off?
+# ✅120v for house, open issues
+## ✅Outback inverter is not connected to shore power due to poor wiring conditions.
+## ✅Heavy gauge cables can be connected directly to gel 8d to power galley outlets and the remote panel does work, but it really should be done properly with an off switch and a pretty large fuse!
+# ✅12v for house, open issues
+[[+/85CHB38 electrical panel notes\|85CHB38 electrical panel notes]] from Jeff Small
+## ✅fixed 12v circuits
 - cabin lights in all 3 rooms
 - some nav lights (rear white, and high white still not working)
 - bilge pump 1 and sump pump 1
 - windlass (not currently wired up due to battery decisions)
 - depth finder and speed
-- engine room intake blower
-
-# engines and gearboxes, open issues
-## ✅ 1: Port ignition switch not firing the starter
-I replaced both start relays and one of the relay harness/plug ends which was very corroded inside.
-## 2: Starboard stop solenoid + relay needs to be rewired
-This solenoid seems to be broken. I ordered a new one. I also am considering just changing to a cable, which is recommended by some online due to these weird relay setups and solenoid failures.
-## 3: Both RPM gauges need to be hooked back up
-These should be a small wire on each alternator. Out of two small wires, one is the signal wire and the other is this RPM driver. Either on a spade or ring terminal.
-## 4: temp and pressure on strbrd side hooked up
-## ✅starboard transmission stop switch needs rewired
-But why was it cut out of the loop? Do I even need this? I removed both instead of fixing the second one. I really do not see a need for this feature for me personally.
-## Starboard oil pressure sensor not working
-All sensors need testing so I understand how to troubleshoot later. Need to know the baseline values and where to probe to get them.
-## Starboard v-belt is worn
-✅ Replaced Aug 2024!
-## Starboard harmonic balancer seems wobbly
-✅ Shakedown cruise Aug 2024 it did fine during two 4-hour trips, so I guess it's just visual!
-# 120v for house, open issues
-## Outback inverter is not connected to shore power due to poor wiring conditions.
-## Heavy gauge cables can be connected directly to gel 8d to power galley outlets and the remote panel does work, but it really should be done properly with an off switch and a pretty large fuse!
-# 12v for house, open issues
-[[+/85CHB38 electrical panel notes\|85CHB38 electrical panel notes]] from Jeff Small
-## current dead circuits
-- ✅ toilet macerator (possibly also a pump here)
-- ✅ water pressure pump (is there more than one in this system of tubes?)
-- deck wash pump (I think it just needs to be wired and the plumbing is already done, seacock just needs to be opened, the one near starboard reverse gear)
-- some nav lights: rear white, and high white still not working
-- ✅ radar
-- VHF need to decide mounting location and agenda cable to decide power route. Otherwise, just needs to be hooked back up to the correct breaker.
-# 12v for engines, open issues
+- engine room intake blower (now making some noise, so need to oil motor bearings and make sure intake tube is adjusted properly. I currently have the tube remove from the wall inlet because it just got in the way and looked pretty awful, and I had wanted to try using that through-hull fitting for exhausting the air from the heat pump, although I decided not to keep that set up, so the inlet is disconnected and blocked with a rag right now since it's cold in the winter and I'm trying to keep it warm-ish in there.)
+- toilet macerator (possibly also a pump here)
+-  water pressure pump (is there more than one in this system of tubes?)
+-  radar (replace with Garmin Echomap MFD?)
+- VHF need to decide mounting location and agenda cable to decide power route. Otherwise, just needs to be hooked back up to the correct breaker. Not mounted but works sitting on the dashboard right now, and is connected to one of the antennas (not sure which one but tested to another boat in the marina and they said it sounded perfectly clear)
 ## ✅ can I connect alternators directly to the 8D gel battery?
 Yes, simply connect the alternator B+ wire with enough amperage gauge to a 3/8" stud and extend from there into the selector switch. 
 ## ✅ can I start both engines from one battery?
